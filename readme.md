@@ -1,5 +1,5 @@
 /********Author Sumeet Jain
-This game is free to use and currently has no license.*******/
+This game is free to use and currently has no license.********/
 
 Just need python 2.7+ to run
 
